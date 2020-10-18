@@ -1,0 +1,6 @@
+* Recognitions:
+
+  {% for recognition in event.data.recognitions %}
+    {% for tweet in recognition.twitter %}
+  {% tweetText tweet %}
+  {% endfor %}{% endfor %}

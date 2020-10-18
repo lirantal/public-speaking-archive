@@ -1,0 +1,21 @@
+---
+permalink: /events.md
+---
+{% assign postslist = collections.posts %}
+
+{% for events in collections.contentByYear reversed %}
+
+{% assign year = events[0] %}
+{% assign yearlyPosts = events[1] %}
+
+
+## {{ year }}
+
+**[{{ yearlyPosts.length }}]** total events for {{ year }}
+
+{% include event-header.liquid %}{% for event in yearlyPosts reversed %}{% assign eventData = event.data %}
+{% include event.liquid %}
+{% if event.data.recognitions %}{% include event-recognition.liquid %}
+{% if forloop.last != true %}{%- include event-header.liquid -%}{%- endif -%}
+{%- endif -%}
+{% endfor %}{% endfor %}
