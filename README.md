@@ -42,7 +42,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | :--: | ----- | ----- | :----: | :-------: | :------: | :------: |
-| Fri Jun 09 2017 03:00:00 GMT+0300 (Israel Daylight Time) | [JSHeroes](https://jsheroes.io) | Node.js Security: Breaking The Loop | [Slides](null) | [Recording](https://www.youtube.com/watch?v=DX8FSC_7wRI) | Cluj-Napoca Romania (Romania ) | English |
+| 2017-06-09 | [JSHeroes](https://jsheroes.io) | Node.js Security: Breaking The Loop | [Slides](null) | [Recording](https://www.youtube.com/watch?v=DX8FSC_7wRI) | Cluj-Napoca Romania (Romania ) | English |
 * Recognitions:
 
   
@@ -69,7 +69,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | :--: | ----- | ----- | :----: | :-------: | :------: | :------: |
-| Mon Sep 19 2016 03:00:00 GMT+0300 (Israel Daylight Time) | [OWASP AppSec Israel](https://owasp.org/www-chapter-israel/) | Node.js Security Done Right | [Slides](https://www.slideshare.net/LiranTal1/nodejs-security-done-right-tips-and-tricks-they-wont-teach-you-in-school) | [Recording](https://www.youtube.com/watch?v=n9HIfhaSOyc&list=PLA4gj-PiNukcnP0M8exLzXywWI71W4q4R&index=11) | Tel Aviv Israel (Israel ) | English |
+| 2016-09-19 | [OWASP AppSec Israel](https://owasp.org/www-chapter-israel/) | Node.js Security Done Right | [Slides](https://www.slideshare.net/LiranTal1/nodejs-security-done-right-tips-and-tricks-they-wont-teach-you-in-school) | [Recording](https://www.youtube.com/watch?v=n9HIfhaSOyc&list=PLA4gj-PiNukcnP0M8exLzXywWI71W4q4R&index=11) | Tel Aviv Israel (Israel ) | English |
 * Recognitions:
 
   
@@ -80,7 +80,7 @@
   
 | Date | Event | Title | Slides | Recording | Location | Language |
 | :--: | ----- | ----- | :----: | :-------: | :------: | :------: |
-| Thu Feb 18 2016 02:00:00 GMT+0200 (Israel Standard Time) | [helloJS](https://hellojs.org) | The Rise of Open Source && MEAN Stack in the Enterprise | [Slides](null) | [Recording](https://www.youtube.com/watch?v=su0mysF0zN4) | Cluj-Napoca Romania (Romania ) | English |
+| 2016-02-18 | [helloJS](https://hellojs.org) | The Rise of Open Source && MEAN Stack in the Enterprise | [Slides](null) | [Recording](https://www.youtube.com/watch?v=su0mysF0zN4) | Cluj-Napoca Romania (Romania ) | English |
 * Recognitions:
 
   
