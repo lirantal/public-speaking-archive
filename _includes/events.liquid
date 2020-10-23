@@ -1,13 +1,6 @@
----
-permalink: /events.md
----
-{% assign postslist = collections.posts %}
-
 {% for events in collections.contentByYear reversed %}
-
 {% assign year = events[0] %}
 {% assign yearlyPosts = events[1] %}
-
 
 ## {{ year }}
 

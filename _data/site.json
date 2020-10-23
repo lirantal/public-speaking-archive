@@ -1,0 +1,13 @@
+{
+  "title": "Public Speaking",
+  "author": {
+    "name": "Liran Tal",
+    "bio": {
+      "short": "I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs."
+    },
+    "social": {
+      "twitter": "liran_tal",
+      "linkedin": "https://www.linkedin.com/in/talliran"
+    }
+  }
+}

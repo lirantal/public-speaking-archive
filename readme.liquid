@@ -1,0 +1,16 @@
+---
+permalink: /readme.md
+---
+
+{% include author-profile.liquid %}
+
+---
+
+**Table of Contents**:
+
+{% for events in collections.contentByYear reversed %}
+{%- assign year = events[0] -%}
+- [Events in {{ year }}](#{{year}})
+{% endfor %}
+
+{% include events.liquid %}
