@@ -1,6 +1,7 @@
 const fetch = require('node-fetch');
 const createDOMPurify = require('dompurify');
 const { JSDOM } = require('jsdom');
+const { getEmojiFlag } = require('countries-list')
 
 async function getTweetText(tweetUrl) {
 
@@ -36,8 +37,12 @@ async function resolveTweetText(value) {
   return await getTweetText(value)
 }
 
+function resolveCountryEmoji(value) {
+  return getEmojiFlag(value)
+}
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addCollection("contentByYear", yearsCollection);
+  eleventyConfig.addCollection("contentByYear", yearsCollection)
   eleventyConfig.addLiquidShortcode("tweetText", resolveTweetText)
+  eleventyConfig.addLiquidShortcode("countryEmoji", resolveCountryEmoji)
 }

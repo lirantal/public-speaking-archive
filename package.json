@@ -17,5 +17,8 @@
     "jsdom": "^16.4.0",
     "moment": "^2.29.1",
     "node-fetch": "^2.6.1"
+  },
+  "dependencies": {
+    "countries-list": "^2.5.6"
   }
 }
