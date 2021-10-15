@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "npx @11ty/eleventy && cp _site/readme.md README.md",
+    "build:debug": "DEBUG=Eleventy* npx @11ty/eleventy && cp _site/readme.md README.md",
     "serve": "npx @11ty/eleventy --serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0",
+    "@11ty/eleventy": "^0.12.1",
     "dompurify": "^2.1.1",
     "jsdom": "^16.4.0",
     "moment": "^2.29.1",
