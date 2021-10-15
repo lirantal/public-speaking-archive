@@ -1365,7 +1365,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | :--: | ----- | ----- | :----: | :-------: | :------: | :------: |
-| 2017-06-09 | [GitHub Blog](https://github.blog/2019-07-24-lessons-from-snyk-make-smarter-decisions-about-your-applications-security/) | Lessons from Snyk: Make smarter decisions about your application’s security | [Slides](null) | [Recording](null) |    | English |
+| 2017-07-24 | [GitHub Blog](https://github.blog/2019-07-24-lessons-from-snyk-make-smarter-decisions-about-your-applications-security/) | Lessons from Snyk: Make smarter decisions about your application's security | [Slides](null) | [Recording](null) |    | English |
 
 | 2017-06-09 | [JSHeroes](https://jsheroes.io) | Node.js Security: Breaking The Loop | [Slides](null) | [Recording](https://www.youtube.com/watch?v=DX8FSC_7wRI) | Cluj-Napoca Romania 🇷🇴 | English |
 * Recognitions:
